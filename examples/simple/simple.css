@@ -1,0 +1,12 @@
+/** style your Experience with CSS */
+#pers-{{ref}} #pers-custom {
+    border: 2px solid #808080; 
+    margin: 20px;
+}
+#pers-{{ref}} #pers-custom p {
+    font-weight: 400;
+    line-height: 1.2;
+} 
+#pers-{{ref}} #pers-custom .pers-custom__body {
+    padding: 20px 20px;
+}

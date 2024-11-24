@@ -1,1 +1,2 @@
-# cdp-personalize-sample
+# Sitecore CDP + Personalize サンプルテンプレート
+
